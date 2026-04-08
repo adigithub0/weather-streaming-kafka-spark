@@ -1,0 +1,8 @@
+kafka-python
+pyspark
+requests
+python-dotenv
+snowflake-connector-python
+snowflake-snowpark-python
+pandas
+streamlit
